@@ -4,8 +4,6 @@
   Notification tones for WeakAuras, BigWigs, DBM and every addon that uses SharedMedia.<br>
   <a href="https://www.curseforge.com/projects/1691590">CurseForge</a>
   ·
-  <a href="https://wago.io/v633pn6b">Wago</a>
-  ·
   <a href="https://github.com/TheWolfIsLoose/sharedmedia_tones/releases">Releases</a>
 </p>
 
