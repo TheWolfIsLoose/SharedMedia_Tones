@@ -22,3 +22,9 @@ With Stock Clerk and PickupGroup: bring all three in line with the shared
 style guide where it applies, in-game (e.g. group colours vs the shared
 mint accent) and out of game (README / CurseForge description formatting,
 release notes, About lines).
+
+## Later: WoW: Forever compatibility
+
+Check what Tones needs to run on WoW: Forever (.toc Interface number,
+LibSharedMedia support there). Done for all three addons together, timed
+with PickupGroup's 1.0 release.
