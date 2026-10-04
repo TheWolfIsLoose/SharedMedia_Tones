@@ -1,4 +1,4 @@
-## v2.7.0-beta1
+## v2.7.0
 
 - Now called **SharedMedia: Tones**.
 - All tones now sit together at the bottom of every sound list, instead of scattered among other addons' sounds.

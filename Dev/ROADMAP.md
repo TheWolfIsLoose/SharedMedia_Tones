@@ -8,11 +8,10 @@ Shipped work moves to `Dev/HISTORY.md`; the player-facing summary goes in
 
 ## Next session: start here
 
-**v2.7.0-beta1 released from `dev`** (webhook test; in-game checks passed). Rename, grouped `T:` names, Ponytail
-pass, pipeline aligned with Stock Clerk / PickupGroup.
+**2026-10-04: stable v2.7.0 released** (`main` = `dev`). Rename, grouped
+`T:` names, Ponytail pass, pipeline aligned with Stock Clerk / PickupGroup;
+CurseForge webhook confirmed.
 
-Before merging to `main`:
-1. CurseForge webhook confirmed on the repo (Settings > Webhooks); the old
-   `CF_API_TOKEN` secret can be deleted once the first release lands.
-2. Player: paste `Dev/CURSEFORGE.md` into the CurseForge description and
-   rename the CurseForge project.
+Pending on the player's side: delete the unused `CF_API_TOKEN` secret;
+paste `Dev/CURSEFORGE.md` into the CurseForge description and rename the
+CurseForge project.

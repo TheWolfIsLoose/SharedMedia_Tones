@@ -6,9 +6,9 @@ CHANGELOG.md. Add each release's detailed notes here when you cut it.
 
 Entries up to 2.6.3 come from the old cumulative CHANGELOG.md.
 
-## v2.7.0-beta1 (2026-10-04)
+## v2.7.0 (2026-10-04)
 
-Tested in-game before release: tones grouped at the end of the list, `T:` names, playback, new addon title. Also the first release through the CurseForge webhook.
+Tested in-game before release: tones grouped at the end of the list, `T:` names, playback, new addon title. v2.7.0-beta1 went out first as the CurseForge webhook test (webhook confirmed); its GitHub tag and release were withdrawn when the dev history was rewritten to the noreply author address. The beta file stays on CurseForge.
 
 - Renamed to "SharedMedia: Tones" (.toc Title). Folder, package name and
   sound paths stay `SharedMedia_Tones`, so installs and paths don't move.
