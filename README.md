@@ -4,7 +4,7 @@
   Notification tones for WeakAuras, BigWigs, DBM and every addon that uses SharedMedia.<br>
   <a href="https://www.curseforge.com/projects/1691590">CurseForge</a>
   ·
-  <a href="https://github.com/TheWolfIsLoose/sharedmedia_tones/releases">Releases</a>
+  <a href="https://github.com/TheWolfIsLoose/SharedMedia_Tones/releases">Releases</a>
 </p>
 
 47 short, clean tones that cut through combat without grating over a long

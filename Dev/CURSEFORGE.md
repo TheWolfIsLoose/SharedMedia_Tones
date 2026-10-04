@@ -20,6 +20,6 @@ Affirmed, Alert, Answer, Arodue, Attention, Bell, Bouncing, Check, Chip, Chord, 
 **Memes** — for fun.
 Alert, Huh, Mistakes, Potion, WC2 Bloodlust.
 
-Source and issues: [GitHub](https://github.com/TheWolfIsLoose/sharedmedia_tones)
+Source and issues: [GitHub](https://github.com/TheWolfIsLoose/SharedMedia_Tones)
 
 *Organic and Classic tones come from the ClearTone Organic and Classic notification sets.*
