@@ -28,3 +28,10 @@ release notes, About lines).
 Check what Tones needs to run on WoW: Forever (.toc Interface number,
 LibSharedMedia support there). Done for all three addons together, timed
 with PickupGroup's 1.0 release.
+
+## Later: shared branding and logos
+
+With Stock Clerk and PickupGroup: logos in one family style so it's clear
+they come from the same dev, each with its own clear identifying mark.
+Tones has no logo or icon yet; Stock Clerk's existing logo
+(`.assets/logo-256.png`) is the reference point.
