@@ -59,7 +59,7 @@ if not exist ".git" (
 )
 REM Always (re)point origin at the repo, in case it was missing or old.
 git remote remove origin >nul 2>nul
-git remote add origin https://github.com/TheWolfIsLoose/sharedmedia_tones.git
+git remote add origin https://github.com/TheWolfIsLoose/SharedMedia_Tones.git
 
 REM ---- Show current version -------------------------------------------
 set "BEFORE="

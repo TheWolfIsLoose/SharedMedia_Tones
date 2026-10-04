@@ -14,7 +14,7 @@ pass, pipeline aligned with Stock Clerk / PickupGroup.
 Before merging to `main`:
 1. In-game: tones grouped at the end of the list, `T:` names readable,
    tones play.
-2. GitHub repo renamed; About line set.
+2. GitHub repo renamed to SharedMedia_Tones; About line + website set (player, in repo settings).
 3. CurseForge webhook confirmed on the repo (Settings > Webhooks); the old
    `CF_API_TOKEN` secret can be deleted once the first release lands.
 4. Player: paste `Dev/CURSEFORGE.md` into the CurseForge description and
