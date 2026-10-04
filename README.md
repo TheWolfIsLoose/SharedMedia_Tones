@@ -36,7 +36,7 @@ Alert, Huh, Mistakes, Potion, WC2 Bloodlust.
 
 ## Install
 
-Retail (Midnight) only. No other addons required.
+Retail and every Classic flavor. No other addons required.
 
 Install from [CurseForge](https://www.curseforge.com/wow/addons/sharedmedia-tones),
 or unzip a [release](https://github.com/TheWolfIsLoose/SharedMedia_Tones/releases)
