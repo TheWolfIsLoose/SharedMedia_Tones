@@ -15,3 +15,10 @@ CurseForge webhook confirmed.
 Pending on the player's side: delete the unused `CF_API_TOKEN` secret;
 paste `Dev/CURSEFORGE.md` into the CurseForge description and rename the
 CurseForge project.
+
+## Later: cross-addon style pass
+
+With Stock Clerk and PickupGroup: bring all three in line with the shared
+style guide where it applies, in-game (e.g. group colours vs the shared
+mint accent) and out of game (README / CurseForge description formatting,
+release notes, About lines).
