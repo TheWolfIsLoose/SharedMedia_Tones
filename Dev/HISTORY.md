@@ -6,6 +6,13 @@ CHANGELOG.md. Add each release's detailed notes here when you cut it.
 
 Entries up to 2.6.3 come from the old cumulative CHANGELOG.md.
 
+
+## v2.7.1 (2026-10-04)
+
+- TOC adds interface 120100 (current Retail), which PickupGroup and StockClerk already target; without it the addon showed as out of date.
+- Suite icon (sound bars, `FF6FC8`, style-guide tile): `icon.png` via TOC IconTexture; `.assets/logo-256.png` (README) and `.assets/logo.png` 400 px (CurseForge), kept out of the package.
+- Copy pass: TOC notes match the README tagline; American spelling; README gains Install (Retail and every Classic flavor) and License; CurseForge text updated (`Dev/CURSEFORGE.md`).
+- Accessibility check: no UI of its own; tone names carry their set as text ("T: Name"), so the set colors are never the only cue.
 ## v2.7.0 (2026-10-04)
 
 Tested in-game before release: tones grouped at the end of the list, `T:` names, playback, new addon title. v2.7.0-beta1 went out first as the CurseForge webhook test (webhook confirmed); its GitHub tag and release were withdrawn when the dev history was rewritten to the noreply author address. The beta file stays on CurseForge.
