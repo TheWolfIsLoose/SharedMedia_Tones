@@ -12,7 +12,7 @@ Shipped work moves to `Dev/HISTORY.md`; the player-facing summary goes in
 pass, pipeline aligned with Stock Clerk / PickupGroup.
 
 Before merging to `main`:
-3. CurseForge webhook confirmed on the repo (Settings > Webhooks); the old
+1. CurseForge webhook confirmed on the repo (Settings > Webhooks); the old
    `CF_API_TOKEN` secret can be deleted once the first release lands.
-4. Player: paste `Dev/CURSEFORGE.md` into the CurseForge description and
+2. Player: paste `Dev/CURSEFORGE.md` into the CurseForge description and
    rename the CurseForge project.
