@@ -3,6 +3,7 @@
 ## Notes: Notification tones for WeakAuras, BigWigs, DBM and every addon that uses SharedMedia.
 ## Version: @project-version@
 ## Author: Jakerator
+## IconTexture: Interface\AddOns\SharedMedia_Tones\icon.png
 ## X-Curse-Project-ID: 1691590
 ## X-Wago-ID: v633pn6b
 ## X-Category: Sound
