@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".assets/logo-256.png" alt="SharedMedia: Tones" width="128" height="128">
+</p>
+
 <h1 align="center">SharedMedia: Tones</h1>
 
 <p align="center">
@@ -13,8 +17,8 @@ reads SharedMedia. No setup, no options.
 
 - **Easy to find.** Every tone sits together at the bottom of the list,
   named **T: Come In**, **T: Bell** and so on.
-- **Colour-coded sets.** Organic in mint, Classic in pink, Memes in lime.
-- **Mixed to sit in the game.** Trimmed to fire instantly and levelled so
+- **Color-coded sets.** Organic in mint, Classic in pink, Memes in lime.
+- **Mixed to sit in the game.** Trimmed to fire instantly and leveled so
   none of them jump out louder than the rest.
 - **Standalone.** Needs no other addon.
 
@@ -34,7 +38,20 @@ The Button, The Switch.
 **Memes** (lime) — for fun.
 Alert, Huh, Mistakes, Potion, WC2 Bloodlust.
 
+## Install
+
+Retail and every Classic flavor. No other addons required.
+
+Install from [CurseForge](https://www.curseforge.com/wow/addons/sharedmedia-tones),
+or unzip a [release](https://github.com/TheWolfIsLoose/SharedMedia_Tones/releases)
+into `Interface/AddOns/`. Then pick any **T:** sound in your addon's sound
+list.
+
 ## Credits
 
 Organic and Classic tones come from the ClearTone Organic and Classic
 notification sets. Assembled by Jakerator.
+
+## License
+
+GPL-3.0. See [LICENSE](LICENSE).
