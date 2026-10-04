@@ -1,29 +1,33 @@
+# SharedMedia: Tones - BigWigsMods packager config.
+# Used by .github/workflows/release.yml and by CurseForge's own packager.
+# Release process: Dev/RELEASING.md.
+
 package-as: SharedMedia_Tones
 
-# Libraries are committed to this repo so a plain checkout is still directly
-# installable, but the packager replaces them with upstream HEAD at release
-# time. Packaged zips therefore always ship current libraries while the repo
-# stays standalone.
+# Libraries are committed so a plain checkout is directly installable; the
+# packager swaps in upstream HEAD at release time.
 externals:
   libs/LibStub: https://repos.curseforge.com/wow/libstub/trunk
   libs/CallbackHandler-1.0: https://repos.curseforge.com/wow/callbackhandler/trunk/CallbackHandler-1.0
   libs/LibSharedMedia-3.0: https://repos.curseforge.com/wow/libsharedmedia-3-0/trunk/LibSharedMedia-3.0
 
-# This addon is meaningless without its libraries, so never build a nolib zip.
+# Meaningless without its libraries, so never build a nolib zip.
 enable-nolib-creation: no
 
-# Use our own CHANGELOG.md as the changelog text uploaded to CurseForge/WoWInterface
-# instead of the packager's default of auto-generating one from raw git log output.
 manual-changelog:
   filename: CHANGELOG.md
   markup-type: markdown
 
+# Stripped from the packaged zip. Keep comments on their own lines: an
+# inline `# ...` after an entry silently breaks that entry.
 ignore:
   - README.md
-  - CHANGELOG.md
+  - Dev
   - .github
   - .gitignore
-  # The LibStub external ships its own unit tests and a stub .toc that WoW
-  # would try to load as a separate addon. Neither belongs in a release.
+  - .gitattributes
+  - .pkgmeta
+  # LibStub's external ships unit tests and a stub .toc WoW would load as
+  # a separate addon.
   - libs/LibStub/tests
   - libs/LibStub/LibStub.toc
