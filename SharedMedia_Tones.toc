@@ -1,6 +1,6 @@
 ## Interface: 11508, 20505, 30405, 40402, 50503, 110207, 120000, 120001
 ## Title: SharedMedia: Tones
-## Notes: Curated notification tones for any addon that uses LibSharedMedia.
+## Notes: Notification tones for WeakAuras, BigWigs, DBM and every addon that uses SharedMedia.
 ## Version: @project-version@
 ## Author: Jakerator
 ## X-Curse-Project-ID: 1691590
