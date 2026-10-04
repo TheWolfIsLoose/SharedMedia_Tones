@@ -1,88 +1,42 @@
-# SharedMedia_Tones
+<h1 align="center">SharedMedia: Tones</h1>
 
-A standalone World of Warcraft addon with 42 curated notification tones plus
-a small set of meme sounds, registered with LibSharedMedia-3.0 so they show
-up in the sound dropdowns of WeakAuras, BigWigs, Details, and anything else
-that reads SharedMedia.
+<p align="center">
+  Notification tones for WeakAuras, BigWigs, DBM and every addon that uses SharedMedia.<br>
+  <a href="https://www.curseforge.com/projects/1691590">CurseForge</a>
+  ·
+  <a href="https://wago.io/v633pn6b">Wago</a>
+  ·
+  <a href="https://github.com/TheWolfIsLoose/sharedmedia_tones/releases">Releases</a>
+</p>
 
-No configuration. Install it and the tones appear.
+47 short, clean tones that cut through combat without grating over a long
+night of raiding. Install it and they show up in every sound dropdown that
+reads SharedMedia. No setup, no options.
+
+- **Easy to find.** Every tone sits together at the bottom of the list,
+  named **T: Come In**, **T: Bell** and so on.
+- **Colour-coded sets.** Organic in mint, Classic in pink, Memes in lime.
+- **Mixed to sit in the game.** Trimmed to fire instantly and levelled so
+  none of them jump out louder than the rest.
+- **Standalone.** Needs no other addon.
 
 ## The sets
 
-Tones are grouped and colour-coded in the dropdown so they're easy to find
-among the defaults.
+**Organic** (mint) — struck and resonant: wood, glass, metal, gamelan.
+Come In, Done Deal, Faster, Fragile, Hammered, Inharmonics, Likeable,
+Metallic, Minimalist Gamelan, Minimalist Woodblock, Notified, Simple Task,
+Spotless, Struck With Grace, The Cyclist, Woodblock.
 
-**Organic** (16), shown in mint green — struck and resonant: wood, glass,
-metal, gamelan.
+**Classic** (pink) — crisp synthetic alerts.
+Affirmed, Alert, Answer, Arodue, Attention, Bell, Bouncing, Check, Chip,
+Chord, Classy, Clear, Confirmed, Delayed, Dissonant, Done, Enter, Finale,
+Friendly Reminder, Gentle Reminder, Remember The Milk, Sharp, Swift, Swop,
+The Button, The Switch.
 
-- Come In
-- Done Deal
-- Faster
-- Fragile
-- Hammered
-- Inharmonics
-- Likeable
-- Metallic
-- Minimalist Gamelan
-- Minimalist Woodblock
-- Notified
-- Simple Task
-- Spotless
-- Struck With Grace
-- The Cyclist
-- Woodblock
-
-**Classic** (26), shown in hot pink — synthetic notification tones.
-
-- Affirmed
-- Alert
-- Answer
-- Arodue
-- Attention
-- Bell
-- Bouncing
-- Check
-- Chip
-- Chord
-- Classy
-- Clear
-- Confirmed
-- Delayed
-- Dissonant
-- Done
-- Enter
-- Finale
-- Friendly Reminder
-- Gentle Reminder
-- Remember The Milk
-- Sharp
-- Swift
-- Swop
-- The Button
-- The Switch
-
-**Memes** (5), shown in lime green — sound clips, not tuned tones.
-
-- Alert
-- Huh
-- Mistakes
-- Potion
-- WC2 Bloodlust
-
-## Sound design
-
-Every sound is mixed and mastered to be noticeable without being annoying —
-brief and attention-grabbing, sitting naturally in the mix rather than
-sticking out or sounding harsh over long play sessions. The Memes sounds go
-through the same normalization pass as the Organic and Classic tones.
-
-## Libraries
-
-LibStub, CallbackHandler-1.0, and LibSharedMedia-3.0 are bundled, so this
-works as a standalone addon with no other dependencies required.
+**Memes** (lime) — for fun.
+Alert, Huh, Mistakes, Potion, WC2 Bloodlust.
 
 ## Credits
 
-Organic and Classic tones are drawn from the ClearTone Classic and Organic
-notification sets. Memes sounds are user-supplied clips. Assembled by
-Jakerator.
+Organic and Classic tones come from the ClearTone Organic and Classic
+notification sets. Assembled by Jakerator.
