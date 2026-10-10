@@ -7,6 +7,11 @@ CHANGELOG.md. Add each release's detailed notes here when you cut it.
 Entries up to 2.6.3 come from the old cumulative CHANGELOG.md.
 
 
+## v2.7.2 (2026-10-10)
+
+- Committed LibSharedMedia-3.0 updated from r164 to r181 (MINOR 12000004), matching the standalone library. Release zips already pulled upstream HEAD via the packager (v2.7.1 shipped r176); this brings plain checkouts in line.
+- r177-r181 reject media files that don't exist (`C_UIFileAsset.IsKnownFile`) and, as of r181, report them through the error handler instead of failing silently. All 47 Tones paths resolve to shipped `.ogg` files, so no errors. API unchanged.
+- LibStub and CallbackHandler unchanged.
 ## v2.7.1 (2026-10-04)
 
 - TOC adds interface 120100 (current Retail), which PickupGroup and StockClerk already target; without it the addon showed as out of date.
