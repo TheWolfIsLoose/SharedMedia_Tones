@@ -1,3 +1,3 @@
-## v2.7.2
+## v2.7.3
 
-- Ships the latest LibSharedMedia.
+- Up to date for patch 12.1.5.
