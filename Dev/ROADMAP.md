@@ -8,6 +8,8 @@ Shipped work moves to `Dev/HISTORY.md`; the player-facing summary goes in
 
 ## Next session: start here
 
+**2026-10-13: v2.7.3 released** (patch 12.1.5 TOC bump).
+
 **2026-10-04: stable v2.7.0 released** (`main` = `dev`). Rename, grouped
 `T:` names, Ponytail pass, pipeline aligned with Stock Clerk / PickupGroup;
 CurseForge webhook confirmed.

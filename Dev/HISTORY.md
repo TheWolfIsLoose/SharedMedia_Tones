@@ -7,6 +7,10 @@ CHANGELOG.md. Add each release's detailed notes here when you cut it.
 Entries up to 2.6.3 come from the old cumulative CHANGELOG.md.
 
 
+## v2.7.3 (2026-10-13)
+
+- TOC adds interface 120105 (Retail 12.1.5, build 70340; Gethe `live` + Warcraft Wiki). Classic flavors unchanged.
+
 ## v2.7.2 (2026-10-10)
 
 - Committed LibSharedMedia-3.0 updated from r164 to r181 (MINOR 12000004), matching the standalone library. Release zips already pulled upstream HEAD via the packager (v2.7.1 shipped r176); this brings plain checkouts in line.
