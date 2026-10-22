@@ -7,6 +7,10 @@ CHANGELOG.md. Add each release's detailed notes here when you cut it.
 Entries up to 2.6.3 come from the old cumulative CHANGELOG.md.
 
 
+## v2.7.4 (2026-10-22)
+
+Suite style pass: the icon mark is white (monochrome icons across the suite); set colours in sound lists unchanged.
+
 ## v2.7.3 (2026-10-13)
 
 - TOC adds interface 120105 (Retail 12.1.5, build 70340; Gethe `live` + Warcraft Wiki). Classic flavors unchanged.
