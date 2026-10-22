@@ -1,3 +1,3 @@
-## v2.7.3
+## v2.7.4
 
-- Up to date for patch 12.1.5.
+- New icon to match the rest of our addons.
