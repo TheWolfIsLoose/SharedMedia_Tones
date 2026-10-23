@@ -13,7 +13,6 @@ Shipped work moves to `Dev/HISTORY.md`; the player-facing summary goes in
 Pending on the player's side (if not done yet): delete the unused
 `CF_API_TOKEN` secret.
 
-## Later: WoW: Forever compatibility
+## Not planned: WoW: Forever
 
-Check what Tones needs to run on WoW: Forever (.toc Interface number,
-LibSharedMedia support there). Done for all the suite's addons together.
+The player only supports game modes they play (2026-10-22); revisit only if that changes.
