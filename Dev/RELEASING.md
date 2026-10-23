@@ -13,8 +13,7 @@ including this one, go in [HISTORY.md](HISTORY.md). Planned work lives in [ROADM
 
 The workflow tags the commit, packages it and creates the GitHub
 release, which CurseForge (GitHub webhook) and Wago (its own webhook)
-pick up. Don't create releases by hand. Track a branch locally with
-`Dev/update.bat` (`update.bat dev` for test builds). Before pushing, run
+pick up. Don't create releases by hand. Before pushing, run
 the smoke test: `lua5.1 Dev/smoke.lua`
 
 Adding sounds: drop `<group>-Name-With-Dashes.ogg` in `sound/`, add
