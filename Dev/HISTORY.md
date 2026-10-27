@@ -6,6 +6,9 @@ CHANGELOG.md. Add each release's detailed notes here when you cut it.
 
 Entries up to 2.6.3 come from the old cumulative CHANGELOG.md.
 
+## Next (on `dev`, not released)
+
+Nothing yet.
 
 ## v2.7.4 (2026-10-22)
 
